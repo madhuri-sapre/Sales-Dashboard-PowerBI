@@ -8,7 +8,7 @@ This Car Sales Analysis Dashboard (Power BI) visualizes Norway’s car market us
 # Key Insights and Features:
 #### Total Units Sold: 
 1.34M cars sold across different brands. <br />    
-#### Total Revenue:     
+#### Total Revenue:           
 Generated revenue of ₹120M+ (example figure).  <br />
 #### Top Performing Brands: 
 Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai. <br />
