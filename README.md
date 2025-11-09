@@ -1,16 +1,131 @@
-# SALES_DASHBOARD_POWERBI
-Description:
-Created an interactive Power BI dashboard to analyze and visualize car sales performance in Norway across different automobile brands. The dashboard provides insights into total units sold, total revenue, top-performing models, and brand market share to help stakeholders understand sales trends and brand performance.
+# Project Title:
+Analyzing Car Sales in Norway | Sales Dashboard (Power BI Project)
 
-Key Features:
-Displayed key performance indicators (KPIs) such as total units sold, total revenue, and number of variants.
-Visualized brand-wise market share using interactive pie and bar charts.
-Identified top 5 car models by revenue and brand market value to highlight best-selling products.
-Showcased sales trends over time to analyze year-wise performance and growth patterns.
-Integrated company logos and images for a professional, visually appealing dashboard layout.
+# Description
+This Car Sales Analysis Dashboard (Power BI) visualizes Norway’s car market using cleaned Excel data. It highlights units sold, total revenue, market share, brand performance, top models, and sales trends, providing quick insights into top-selling brands and overall sales growth.
 
-Tools & Skills Used: 
-Power BI, DAX, Power Query, Data Modeling, Data Visualization, Business Intelligence, Dashboard Design.
 
-Outcome:
-Delivered a comprehensive and visually engaging dashboard that enables decision-makers to track brand performance, identify market leaders, and understand evolving car sales trends in the Norwegian market.
+# Key Insights and Features:
+#### Total Units Sold: 
+1.34M cars sold across different brands. <br />
+#### Total Revenue: 
+Generated revenue of ₹120M+ (example figure).  <br />
+#### Top Performing Brands: 
+Volkswagen, Toyota, Ford, Audi, BMW, and Hyundai. <br />
+#### Market Share Analysis: 
+Visualized through an interactive pie chart showing brand-wise contribution. <br />
+#### Top 5 Models by Revenue: 
+Identified best-selling car models by revenue. <br />
+#### Sales Trend: 
+Line chart displaying monthly/quarterly sales trend for performance tracking.  <br />
+#### Brand Market Value: 
+Bar chart comparing brand performance in terms of sales and revenue.  <br />
+#### Dynamic Filters: 
+Dashboard includes slicers for filtering by brand and category.  <br />
+
+
+# Why This Project Stands Out:
+•	Built an end-to-end interactive dashboard using Power BI with clear, professional layout. <br />
+•	Real-world business problem: Car sales performance analysis for strategic decision-making. <br />
+•	Clean data transformation using Power Query (ETL process). <br />
+•	Applied data modeling, DAX calculations, and custom visuals for deeper insights. <br />
+•	Demonstrates data storytelling skills through visualization and key KPIs. <br />
+
+# Project Highlights:
+Tools Used: Power BI, Excel/CSV dataset <br />
+Key Skills Demonstrated: Data Cleaning, Data Modeling, DAX, Visualization, Reporting <br />
+Dashboard Elements: KPIs, Pie Chart, Bar Chart, Line Chart, and Cards  <br />
+Focus: Brand-wise sales performance and market share comparison  <br />
+
+# Repository Structure (GitHub):
+•	Data: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Norway_car_sales_by_make.csv"</a> <br />
+•	Dashboard: <a href "https://github.com/mayu45/Sales_Dashboard_PowerBI/blob/main/Sales_Dashboard_PowerBI.pbix"> <br />
+•	Image: <img width="1164" height="654" alt="Snapshot" src="https://github.com/user-attachments/assets/086f8c78-5589-45bd-816a-63ea61e22213" />
+
+
+
+
+
+# Feedback and Collaboration:
+I welcome feedback, suggestions, and contributions!
+
+Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+
+# Project Title
+ADIDAS SALES ANALYSIS – Power BI
+
+
+# Project Description
+This project provides an in-depth analysis of Adidas sales performance across different regions, products, retailers, and time periods using Power BI.
+The dashboard helps business stakeholders understand key revenue drivers, monitor sales trends, and identify high-performing markets and product categories.
+It is designed to support data-driven decisions related to marketing, supply chain, and regional strategy.
+
+
+# Tools Used
+•	Power BI Desktop <br />
+•	Power Query <br />
+•	DAX (Data Analysis Expressions) <br />
+
+
+# Dataset Source
+The dataset contains Adidas transactional sales data including invoice dates, product categories, sales amounts, operating profit, units sold, region details, and retailer performance.
+(You can add a dataset link here if required.)
+
+
+# Key KPIs
+•	Total Sales: $270M <br />
+•	Operating Profit: $90M <br />
+•	Units Sold: 687K <br />
+•	Price per Unit: $50 <br />
+•	Operating Margin: 40% <br />
+
+
+# Dashboard Insights & Components
+## 1. Total Sales by Month
+A line chart showing monthly sales trends. <br /> 
+•	Highest sales in July ($31M) <br />
+•	Lowest in October ($10M) <br />
+•	Helps identify seasonal demand patterns. <br />
+## 2. Total Sales by State
+A treemap visualizing sales contribution from each state. <br />
+•	Top-performing states contribute $60M+, $26M, $22M, etc. <br />
+•	Useful for identifying high-value markets. <br />
+## 3. Total Sales by Region
+A donut chart showing the selected region’s total sales. <br />
+•	In this example, West region contributes $270M. <br />
+## 4. Total Sales by Product
+A bar chart displaying product-wise performance. <br />
+## Top products include:
+•	Men's Street Footwear – $55M <br />
+•	Women’s Apparel – $52M <br />
+•	Men’s Athletic Footwear – $50M <br />
+## 5. Total Sales by Retailer
+Highlights revenue generated by major Adidas retail partners. <br />
+•	West Gear leads with $138M, followed by Kohl’s ($62M). <br />
+## 6. Interactive Filters
+•	Region Dropdown <br />
+•	Invoice Date Range Selector <br />
+These filters allow the user to dynamically explore sales insights for any region or timeframe. <br />
+
+
+# Outcome
+### This dashboard provides stakeholders with: <br />
+•	Clear visibility into sales trends <br />
+•	Understanding of revenue contribution across regions, retailers, and products <br />
+•	Insights for improving forecasting, supply chain, and marketing decisions <br />
+•	A professional, user-friendly interface for strategic business analysis <br />
+
+
+# Repository Structure (GitHub):
+•	Data: <a href "https://github.com/mayu45/Adidas_Sales_Analysis_PowerBI/blob/main/Adidas%20US%20Sales%20Datasets.xlsx"</a> <br />
+•	Dashboard: <a href "https://github.com/mayu45/Adidas_Sales_Analysis_PowerBI/blob/main/Adidas_Sales_Analysis_PowerBI.pbix"> <br />
+
+
+# Output Screenshot
+•	Image: <img width="1309" height="739" alt="Screenshot 2025-11-09 004554" src="https://github.com/user-attachments/assets/34f53498-542e-48ec-bd11-b5dead2f4b51" />
+
+
+
+
+
